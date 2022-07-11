@@ -21,10 +21,10 @@ export const aboutData = {
   paragraphOne:
     "I'm Geoff and I'm a software developer. I love tinkering and devising solutions to challenging tasks, and love to learn new technologies and tools to better equip myself in these pursuits. I also have a passion for helping people and I enjoy seeing the impact of my work in this endeavour.",
   paragraphTwo:
-    'I have a focus on python from backend development to automated testing and webscraping to even game development.',
+    'I have a focus on python from backend development and automated testing to webscraping and game development.',
   paragraphThree:
-    "Below you can find a collection of projects I've worked on. I'd love to connect and collaborate!",
-  resume: 'GeoffreyNguyen_Resume.pdf',
+    "I'd love to connect and collaborate. Below you can find my resume and a collection of projects I've worked on.",
+  resume: 'https://drive.google.com/uc?export=download&id=1ACgThnjE1m7T05qk0YNLIbYOSQ3Ynch1',
 };
 
 // PROJECTS DATA
