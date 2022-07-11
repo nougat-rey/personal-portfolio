@@ -2,11 +2,7 @@
 
 ## Intro
 
-Personal online portfolio Built off of [cobiwave's](https://github.com/cobiwave) portfolio template. 
-
-## Authors
-
-- **Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev)
+Personal online portfolio Built off of [cobiwave's](https://github.com/cobiwave) portfolio template.
 
 ## License 📄
 
@@ -15,4 +11,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments 🎁
 
 Thank you [cobiwave](https://github.com/cobiwave) for giving us this wonderful portfolio template
-
