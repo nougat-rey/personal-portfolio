@@ -57,7 +57,7 @@ const Projects = () => {
                           className="cta-btn text-color-main"
                           href={url}
                         >
-                          See Live
+                          Demo
                         </a>
                       )}
                       {repo && (
