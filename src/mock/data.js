@@ -61,7 +61,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'unggoy_runner.png',
     title: 'Halo - Unggoy Runner',
-    info: 'Passion project as an avid fan of the Halo universe. The user plays as an unggoy (grunt) from the Halo universe as it tries to evade the flood infection form coming after it.',
+    info: 'Fun little project as a fan of the Halo universe. The user plays as an unggoy (grunt) from the Halo universe as it tries to evade the flood infection form coming after it.',
     info2: 'Python • pygame',
     url: 'https://youtu.be/bq7V6-kzDR0',
     repo: 'https://github.com/nougat-rey/unggoy-runner',
