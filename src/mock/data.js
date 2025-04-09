@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hello, my name is',
   name: 'Geoff',
-  subtitle: "I'm a Software Developer.",
+  subtitle: 'RF Software Test Engineer with a passion for building software.',
   cta: '',
 };
 
@@ -19,12 +19,12 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    "I'm Geoff and I'm a software developer. I love tinkering and devising solutions to challenging tasks, and love to learn new technologies and tools to better equip myself in these pursuits. I also have a passion for helping people and I enjoy seeing the impact of my work in this endeavour.",
+    "Hi, I'm Geoff—a software developer with a passion for solving complex problems and building high-quality software. With a background in **RF Software Test Engineering**, I bring a strong focus on **test planning**, **automated testing**, and ensuring software reliability. Outside of work, I enjoy developing software as a hobby and exploring new technologies to expand my skill set.",
   paragraphTwo:
-    'I have a focus on python from backend development and automated testing to webscraping and game development.',
+    'My expertise spans **backend development** using **Python**, **Django**, and **MySQL**, as well as **frontend development** with **ReactJS**. I have hands-on experience in developing full-stack applications and implementing automated testing using **pytest** to ensure software quality.',
   paragraphThree:
-    "I'd love to connect and collaborate. Below you can find my resume and a collection of projects I've worked on.",
-  resume: 'https://drive.google.com/uc?export=download&id=1ACgThnjE1m7T05qk0YNLIbYOSQ3Ynch1',
+    "I'm always eager to collaborate and connect with other professionals. Feel free to explore my resume and projects below to learn more about my work and experience.",
+  resume: 'https://drive.google.com/file/d/1feIrzXVloW-HCkwqhvMj51gpf2l_6Ele/view?usp=drive_link',
 };
 
 // PROJECTS DATA
@@ -33,10 +33,10 @@ export const projectsData = [
     id: nanoid(),
     img: 'gardenway.png',
     title: 'Gardenway',
-    info: 'Fullstack app that services a website for an online garden center.',
+    info: 'A full-stack e-commerce platform for an online garden center.',
     info2:
-      'Django backend • MySQL storage • JWT authentication • pytest automated testing • ReactJS frontend',
-    url: '',
+      'Django backend • MySQL database • JWT authentication • pytest automated testing • ReactJS frontend • Cloudinary image hosting • Heroku & Netlify deployment',
+    url: 'https://gardenway.netlify.app',
     repo: 'https://github.com/nougat-rey/gardenway',
   },
   {
@@ -47,15 +47,6 @@ export const projectsData = [
     info2: 'Java • SQL • JSON',
     url: '',
     repo: 'https://github.com/nougat-rey/FourthYearProject',
-  },
-  {
-    id: nanoid(),
-    img: 'webscraper.png',
-    title: 'Business Listings Webscraper',
-    info: 'Webscraper that obtains the contact info of businesses in Ottawa from YellowPages.',
-    info2: 'Python • Selenium Webdriver • Beautiful Soup',
-    url: '',
-    repo: 'https://github.com/nougat-rey/business-list-procurement',
   },
   {
     id: nanoid(),
