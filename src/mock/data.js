@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hello, my name is',
   name: 'Geoff',
-  subtitle: 'RF Software Test Engineer with a passion for building software.',
+  subtitle: 'Test Engineer with a passion for software dev.',
   cta: '',
 };
 
@@ -19,9 +19,9 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    "Hi, I'm Geoff—a software developer with a passion for solving complex problems and building high-quality software. With a background in **RF Software Test Engineering**, I bring a strong focus on **test planning**, **automated testing**, and ensuring software reliability. Outside of work, I enjoy developing software as a hobby and exploring new technologies to expand my skill set.",
+    "Hi, I'm Geoff — a software developer with a passion for solving complex problems and building high-quality software. With a background in RF Software Test Engineering, I bring a strong focus on test planning, automated testing, and ensuring software reliability. Outside of work, I enjoy developing software as a hobby and exploring new technologies to expand my skill set.",
   paragraphTwo:
-    'My expertise spans **backend development** using **Python**, **Django**, and **MySQL**, as well as **frontend development** with **ReactJS**. I have hands-on experience in developing full-stack applications and implementing automated testing using **pytest** to ensure software quality.',
+    'My expertise spans backend development using Python, Django, and MySQL, as well as frontend development with ReactJS. I have hands-on experience in developing full-stack applications and implementing automated testing using pytest to ensure software quality.',
   paragraphThree:
     "I'm always eager to collaborate and connect with other professionals. Feel free to explore my resume and projects below to learn more about my work and experience.",
   resume: 'https://drive.google.com/file/d/1feIrzXVloW-HCkwqhvMj51gpf2l_6Ele/view?usp=drive_link',
